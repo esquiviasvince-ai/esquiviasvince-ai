@@ -1,6 +1,6 @@
 ## Hi, Im Vince 👋
 
-I'm an Administrative and Commercial Lines Insurance Virtual Assistant based in Manila, supporting U.S.-based clients.
+I'm an Administrative Support and Commercial Lines Insurance Virtual Assistant based in Manila, supporting U.S.-based clients.
 
 I help insurance agencies and small businesses with their day-to-day operations, administrative tasks, and back-office processes. Experienced in policy processing and Agency Management Systems (AMS) including AMS360, Applied Epic, EZLynx, and Momentum NowCerts, along with Salesforce, Xero Invoicing, Calendly, RingCentral, Google Workspace, and Microsoft Office Suite.
 
